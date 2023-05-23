@@ -1,0 +1,10 @@
+To-do List:
+
+ - gameplay photo desaturated for start screen bg (done)
+ - Finish map for main game (done)
+ - loop the grass for the background (done)
+ - add decor on map ()
+ - make shadow not coloured again (done)
+ - outro screen ()
+ - new intro screen image ()
+ - objectives ()
